@@ -1,0 +1,192 @@
+﻿{
+  "data": {
+    "bookdetails": {
+      "id": 4,
+      "bookName": "Peacock",
+      "price": 70,
+      "shortDescription": "any of three species of resplendent birds of the pheasant family, Phasianidae (order Galliformes). Strictly, the male is a peacock, and the female is a peahen; both are peafowl.",
+      "description": "any of three species of resplendent birds of the pheasant family, Phasianidae (order Galliformes). Strictly, the male is a peacock, and the female is a peahen; both are peafowl. The two most-recognizable species of peafowl are the blue, or Indian, peacock (Pavo cristatus), of India and Sri Lanka, and the green, or Javanese, peacock (P. muticus), found from Myanmar (Burma) to Java. The Congo peacock (Afropavo congensis), which inhabits the forested interior of the Democratic Republic of the Congo, was discovered in 1936 after a search that began in 1913 with the finding of a single feather.",
+      "imageUrl": "https://a-z-animals.com/media/animals/images/470x370/peacock7.jpg",
+      "paidPdfUrl": "https://www.auroville.org/system/file_attachments/files/000/002/359/original/Peacocks.pdf",
+      "unpaidPdfUrl": "",
+      "status": 1,
+      "created_at": null,
+      "updated_at": null,
+      "deleted_at": null
+    },
+    "species": [
+      {
+        "species_details": {
+          "id": 1,
+          "speciesName": "Indian peafowl",
+          "shortDescription": "The Indian peafowl or blue peafowl (Pavo cristatus), a large and brightly coloured bird, is a species of peafowl native to South Asia, but introduced in many other parts of the world.",
+          "description": "The male, or peacock, is predominantly blue with a fan-like crest of spatula-tipped wire-like feathers and is best known for the long train made up of elongated upper-tail covert feathers which bear colourful eyespots.",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Indian_Peacock_in_Tholpetty_Wildlife_Sanctuary_02.JPG",
+          "book_id": 4,
+          "created_at": null,
+          "updated_at": null
+        },
+        "galleries": [
+          {
+            "id": 1,
+            "imageUrl": "https://en.wikipedia.org/wiki/Indian_peafowl#/media/File:Pavo_Real_Venezolano.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 2,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Indian_peafowl_white_mutation.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 3,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Peacock_Dance.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 4,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Peacock_at_Sithulpawwa%2C_Sri_Lanka.png",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 5,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Indian_Peahens_I_IMG_9647.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          }
+        ],
+        "voices": [
+          {
+            "id": 1,
+            "mediaUrl": "https://en.wikipedia.org/wiki/Indian_peafowl#/media/File:Pavo_Real_Venezolano.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 2,
+            "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Indian_peafowl_white_mutation.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 3,
+            "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Peacock_Dance.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 4,
+            "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Peacock_at_Sithulpawwa%2C_Sri_Lanka.png",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 5,
+            "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Indian_Peahens_I_IMG_9647.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          }
+        ]
+      },
+      {
+        "species_details": {
+          "id": 1,
+          "speciesName": "Indian peafowl",
+          "shortDescription": "The Indian peafowl or blue peafowl (Pavo cristatus), a large and brightly coloured bird, is a species of peafowl native to South Asia, but introduced in many other parts of the world.",
+          "description": "The male, or peacock, is predominantly blue with a fan-like crest of spatula-tipped wire-like feathers and is best known for the long train made up of elongated upper-tail covert feathers which bear colourful eyespots.",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Indian_Peacock_in_Tholpetty_Wildlife_Sanctuary_02.JPG",
+          "book_id": 4,
+          "created_at": null,
+          "updated_at": null
+        },
+        "galleries": [
+          {
+            "id": 1,
+            "imageUrl": "https://en.wikipedia.org/wiki/Indian_peafowl#/media/File:Pavo_Real_Venezolano.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 2,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Indian_peafowl_white_mutation.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 3,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Peacock_Dance.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 4,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Peacock_at_Sithulpawwa%2C_Sri_Lanka.png",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 5,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Indian_Peahens_I_IMG_9647.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          }
+        ],
+        "voices": [
+          {
+            "id": 1,
+            "mediaUrl": "https://en.wikipedia.org/wiki/Indian_peafowl#/media/File:Pavo_Real_Venezolano.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 2,
+            "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Indian_peafowl_white_mutation.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 3,
+            "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Peacock_Dance.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 4,
+            "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Peacock_at_Sithulpawwa%2C_Sri_Lanka.png",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          },
+          {
+            "id": 5,
+            "mediaUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Indian_Peahens_I_IMG_9647.jpg",
+            "species_id": 1,
+            "created_at": null,
+            "updated_at": null
+          }
+        ]
+      }
+    ]
+  }
+}
